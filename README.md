@@ -5,6 +5,8 @@
 
 The files included in this repository are for reference only. The code installs all necessary packages, imports all necessary libraries, and integrates with Google Drive to access and store data automatically. However, this can also be done manually by following the steps below.
 
+**A2.** Offline work has been performed on the raw dataset using the script described in the main body of the Dissertation report. That work produced the datasets required to run this code, which have been uploaded on Google Drive and this repository. The raw dataset is not shared but is referenced in the text and available online.
+
 ## B. Setup
 **B1. Setup to Run the Experiments - Installation**
 
